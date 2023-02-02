@@ -1,2 +1,2 @@
 # Darth-Vader-Puppy
-Personal Project from a Yioutube video with Mosh
+Personal Project from a Youtube video with Mosh
